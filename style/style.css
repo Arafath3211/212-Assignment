@@ -4,11 +4,11 @@ body{
    
 }
 .header-section{
-    margin: 0 10%;
+    margin: 0 12%;
 }
 
 #pera{
-    margin-left: 45%;
+    margin-left: 60%;
 }
 .menu {
     margin: 0 10%;
@@ -52,7 +52,7 @@ div li a {
     
 }
 .half-width {
-    width: 40%;
+    width: 60%;
     margin: 0% 10% 0% 10%;
 }
 /* button-style */
@@ -78,7 +78,7 @@ div li a {
 /* img-hover */
 #img-border{
     height: 250px;
-    width: 250px;
+    width: 350px;
     border: 0px solid none;
     border-radius: 100px;
     /* box-shadow: 0 0 20px 2px rgba(0, 0, 0, 1); */
@@ -89,12 +89,15 @@ z-index: 2;}
 
 /* market-place icon-style */
 #market{
-
+padding-top: 10px;
 margin: 50px 10% 0 10%;
 display: flex;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+;
 }
 .icon-hover{
-    margin-right: 35px;
+    margin-right: 60px;
     /* box-shadow: 0 0 20px 2px rgba(0, 0, 0, 1); */
 }
 .icon-hover:hover{scale: 1.2;
@@ -111,7 +114,7 @@ display: flex;
     padding: 10px;
 }
 .product{
-    margin-left: 10px;
+    margin-left: 55px;
 }
 /* product-style */
 
@@ -135,7 +138,7 @@ display: flex;
 }
 .half-width-2 {
     width: 40%;
-    margin: 0% 10% 0% 10%;
+    margin: 0% 12% 0% 12%;
     
 }
 /* footer-section */
